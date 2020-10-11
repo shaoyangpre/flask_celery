@@ -1,2 +1,1 @@
-# flask_celery
-flask使用celery的示例
+windows启动 celery -A apps.celery worker  -P gevent
